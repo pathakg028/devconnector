@@ -2,6 +2,8 @@
 
 > Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
 
+IMPORTANT - This is from the old course. The latest version is at https://github.com/bradtraversy/devconnector_2.0
+
 ## Quick Start
 
 ```bash
